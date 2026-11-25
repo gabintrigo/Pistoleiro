@@ -1,1 +1,3 @@
-Ramo temporário: imagens-guia e referências para gerar a visita interativa do lote. Vai ser apagado no fim da geração.
+# Ramo temporário — vazio
+
+As imagens temporárias que estiveram aqui já foram removidas. Este ramo pode ser apagado.
