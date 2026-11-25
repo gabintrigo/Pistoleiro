@@ -1,3 +1,3 @@
-# Ramo temporário — vazio
+# Ramo temporário
 
-As imagens temporárias que estiveram aqui já foram removidas. Este ramo pode ser apagado.
+Imagens-guia temporárias (renders do modelo 3D) para a visita interativa do lote. São retiradas no fim da tarefa; este ramo pode ser apagado.
